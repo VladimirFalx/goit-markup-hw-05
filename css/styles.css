@@ -216,6 +216,7 @@ body {
 .down-logo {
   display: block;
   margin-bottom: 20px;
+  margin-right: 0;
 }
 
 .down-logo span {
@@ -229,6 +230,7 @@ body {
 
 .footer-contact {
   display: block;
+  margin-right: 0;
   width: 231px;
   font-style: normal;
   font-size: var(--main-font);
@@ -726,7 +728,7 @@ body {
   color: var(--white-color);
 }
 
-.work-card:hover .work-content {
+.work:hover .work-content {
   transform: translateY(0%);
 }
 
